@@ -1,8 +1,8 @@
 # TicTacToe
 
-This project is hosted online with the link - https://tictactoe-for-torchinsight-by-vikrant.netlify.app
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4 by Vikrant Vijaykumar Nakhate for Torch Insight
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4 by Vikrant Vijaykumar Nakhate for Torch Insight.
+This project is hosted online with the link - https://tictactoe-for-torchinsight-by-vikrant.netlify.app
 
 ##Steps to run the project on Local machine/computer
 
