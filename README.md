@@ -1,6 +1,16 @@
 # TicTacToe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+This project is hosted online with the link - https://tictactoe-for-torchinsight-by-vikrant.netlify.app
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4 by Vikrant Vijaykumar Nakhate for Torch Insight.
+
+##Steps to run the project on Local machine/computer
+
+Step 1: Download the project folder as zipped file. Extract the project folder. The name of the folder should be _'Vikrant-Torch-Insight-PWA-Tic-Tac-Toe'_
+Step 2: Open Terminal. Run the command % npm install - g @angular/cli
+Step 3: Navigate to the project root directory. 
+Step 4: Run the command %ng serve --open
+Step 5: The Tic-Tac-Toe Web Application should be up and running on default browser's http://localhost:4200/
 
 ## Development server
 
