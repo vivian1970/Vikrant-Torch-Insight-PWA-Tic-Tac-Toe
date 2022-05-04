@@ -1,0 +1,44 @@
+.main-container {
+    body {
+        background-color: pink;
+        }
+        
+    .gameboard {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        //background-color: black;
+        .player-one{
+            p{
+                color:orange;
+            }
+        }
+
+        .player-two{
+            p{
+                color: blueviolet;
+            }
+        }
+        .gamefield{
+            max-width: 300px;
+            .subfield {
+                cursor: pointer;
+                height: 100px;
+                width: 100px;
+                border: 1px solid black;
+                border-width: thick;
+                background-color: white;
+                &.player-one {
+                    background-color: orange;
+
+        
+                }
+                &.player-two {
+                    background-color: blueviolet;
+                }
+                 
+            }
+        }
+    }
+}
